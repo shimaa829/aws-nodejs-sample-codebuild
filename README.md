@@ -2,8 +2,10 @@
 From the BackSpace Academy AWS Certified Associate (4 Cert Pack + Practice Exams) course.
 Sample NodeJS code for the hands-on CI/CD lab of the Deployment section.
 
-I use the Elastic Beanstalk Service to deploy NodeJs Application, create create a pipline to impelement CI/CD process for this application using CodePipeline Service,and integrate the CodeBuild Service with CodePipeline
+I use the Elastic Beanstalk Service to deploy NodeJs Application, create create a pipline to impelement CI/CD process for this application using CodePipeline Service,and integrate the CodeBuild Service with CodePipeline.
 
+
+ ![alt text](https://github.com/shimaa829/aws-nodejs-sample-codebuild/blob/master/beanstalk.png)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
